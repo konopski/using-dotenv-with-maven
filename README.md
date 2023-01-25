@@ -19,4 +19,3 @@ For further reference, please consider the following sections:
 * [Dotenv for java](https://medium.com/@cdimascio/dotenv-for-java-and-jvm-languages-43ee0e683549)
 * [Maven plugin site](https://github.com/mjourard/env-file-maven-plugin)
 * [Why use dotenv](https://dev.to/wiseai/continue-using-env-files-as-usual-2am5)
-* 
