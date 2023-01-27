@@ -10,7 +10,7 @@ while letting local integration tests to run.
 
 ## Running the example
 
-    mvn clean package && java -jar target/*.jar -Dspring.profiles.active=dev
+    mvn clean package && java -jar -Dspring.profiles.active=dev target/*.jar
 
 
 ### Reference Documentation
